@@ -12,12 +12,12 @@
 
 > Clone this repository or download the zip file.
 
-#### Steps
+#### Commands
 
-> **npm install**.
+> **$npm install**
 
 > Choose the file you want to learn or work.
 
->  **node file.js** to start the server.
+>  **$node file.js** to start the server.
 
-> **Example :** node app.js 
+> **Example :** $node app.js 
