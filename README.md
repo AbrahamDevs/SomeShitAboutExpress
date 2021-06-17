@@ -1,7 +1,5 @@
 ![NodeJS-ExpressJS](https://i.ibb.co/PQ4FM1s/expressjs.png "NodeJS-ExpressJS")
 
-# SomeShitAboutExpress
-
 ### Requirements
 > Get NodeJS and npm [here](https://nodejs.org/en/download/).
 
